@@ -1,0 +1,157 @@
+/*-----------------------------Header styles-----------------------------*/
+.header{
+
+	 width: 100%;
+     border: 2px solid black;
+
+	 height: 140px;
+
+	 width: 100%;
+
+	 background-color:#D09A43;
+
+	 border-radius: 10px;
+
+}
+
+/*----------------------------Body styles------#07292e-----------------------*/
+
+body{
+
+	font-size: 12px;
+    font-family: Arial, sans-serif;
+    color: black;
+	background-color:#fff;
+    
+}
+
+/*...........................Side bar styles..........................*/
+
+
+.list{
+
+	position: relative;
+
+	top: 40px;
+}
+
+.list_group{
+
+	color: red;
+}
+form{
+
+	color: black;
+}
+
+img{
+	height:100px; 
+
+	width:200px;
+}
+
+#myphotos{
+
+	text-align: center;
+	
+	
+
+}
+
+.photo{
+
+	margin-top: 50px;
+	margin-left:150px;
+}
+
+#pics{
+
+	float: left;
+
+	margin: 10px;
+
+
+}
+#myvideos{
+
+	text-align: center;
+}
+.video{
+
+	margin-top: 50px;
+	margin-left:150px;	
+}
+
+#vid{
+
+	float: left;
+
+	margin: 10px;
+}
+
+#button{
+
+	color:#D09A43;
+	background-color: #111;
+}
+
+/*------------------------------login in styles--------------------------*/
+	#form{
+
+		background-color:#111;
+		border-radius: 5px;
+		border: 1px; 
+	}
+	#login{
+
+		color: black;
+		margin-top: 100px;
+		margin-left: 250px;
+	}
+	#legend{
+
+		text-align: center;
+		background-color: black;
+		color: #fff;
+	}
+	#content{
+		border-color: black;
+		margin: 25px;
+	}
+	#btn-login{
+		color:#D09A43;
+		background-color: #111;
+		width: 100px;
+		margin: 25px;		
+	}
+	#label{
+		text-align: center;
+		color: black;
+	}
+
+
+
+
+/*----------------------------Footer styles-----------------------------*/
+
+footer{
+
+	position: relative;
+
+	top:100px;
+
+	text-align: center;
+
+	background-color:#D09A43; 
+
+	height: 140px;
+
+	padding: 50px 0;
+
+}
+/*...................................Alert styles.........................*/
+
+#alert{
+	background-color:#D09A43;
+	color: black; 
+}
